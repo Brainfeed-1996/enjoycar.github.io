@@ -1,18 +1,18 @@
-# BlaBlaCar Clone
+﻿# BlaBlaCar Clone
 
-Application web/mobile de covoiturage respectant la législation française.
+Application web/mobile de covoiturage respectant la lÃ©gislation franÃ§aise.
 
-## Fonctionnalités principales
+## FonctionnalitÃ©s principales
 - Mise en relation conducteurs/passagers
-- Création et recherche de trajets
+- CrÃ©ation et recherche de trajets
 - Messagerie interne
-- Paiements sécurisés
-- Gestion des profils et évaluations
-- Conformité RGPD et légale
+- Paiements sÃ©curisÃ©s
+- Gestion des profils et Ã©valuations
+- ConformitÃ© RGPD et lÃ©gale
 
 ## Structure du projet
-- `backend/` : API Node.js/Express, base de données PostgreSQL
+- `backend/` : API Node.js/Express, base de donnÃ©es PostgreSQL
 - `frontend/` : Application React Native (web/mobile)
 
 ## Lancement rapide
-À venir. 
+Ã€ venir. 
